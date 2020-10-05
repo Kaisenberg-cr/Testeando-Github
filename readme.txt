@@ -1,1 +1,1 @@
-"Inicializacion del repositorio de git" 
+Repositorio Inicial de git 
